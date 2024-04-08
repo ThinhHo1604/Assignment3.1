@@ -1,4 +1,3 @@
-import apiRequest from "./apirequest.js";
 import FollowList from "./followlist.js";
 import User, { Post } from "./user.js";
 
